@@ -1,0 +1,42 @@
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+ h4 {
+  word-break: none;
+  font-family: Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-right: 20px;
+ }
+ body{
+  background-image:url(Have.jfif);
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+  background-size: cover;
+  backface-visibility: unset;
+}
+footer{
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
